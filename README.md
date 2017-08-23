@@ -1,3 +1,8 @@
+
+
+###此项目参考与tennc/fuzzdb
+#####原项目地址：git@github.com:tennc/fuzzdb.git
+
 fuzzdb
 ========================
 这是一个扩展fuzzdb的项目，由于原项目在google托管，且已经停止更新，遂发起这个项目。
